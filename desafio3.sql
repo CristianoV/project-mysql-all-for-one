@@ -1,1 +1,1 @@
-select * from northwind.products limit 1;
+select id from products;
